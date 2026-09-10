@@ -1,23 +1,24 @@
 <p align="center">
   <img src="./banner.png" width="100%" alt="Mohammad Parsa Hosseini Banner">
 </p>
-<div align="center">
 
-# Hi, I'm Mohammad Parsa Hosseini 👋
+<h1 align="center">
+  Hi, I'm Mohammad Parsa Hosseini 👋
+</h1>
 
-### Computer Engineering Student @ Sharif University of Technology
+<h3 align="center">
+  Computer Engineering Student @ Sharif University of Technology
+</h3>
 
-**Interested in Technology • Programming • Startups 🚀**
+<p align="center">
+  <b>Interested in Technology • Programming • Startups 🚀</b>
+</p>
 
-<br>
-
-<a href="mailto:mphosseini84@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mphosseini84%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=MPH2005&style=for-the-badge&color=blue" />
-
-</div>
+<p align="center">
+  <a href="mailto:mphosseini84@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-MPHOSSEINI84%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
@@ -27,7 +28,7 @@ I'm a **Computer Engineering student at Sharif University of Technology** with a
 
 I enjoy learning new technologies, building practical projects, and improving my software engineering and problem-solving skills.
 
-Currently, I'm working on both personal and university projects while exploring new ideas in software development.
+Currently, I'm working on personal and university projects while exploring new ideas in software development.
 
 ---
 
@@ -35,15 +36,19 @@ Currently, I'm working on both personal and university projects while exploring 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,git,github&theme=dark" />
+### Languages
 
-</div>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-<br>
+<br><br>
 
-<div align="center">
+### Tools & Version Control
 
-`C` &nbsp;&nbsp; `Java` &nbsp;&nbsp; `Git` &nbsp;&nbsp; `GitHub`
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -53,6 +58,7 @@ Currently, I'm working on both personal and university projects while exploring 
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🌻 PvZ2-SUT-Project
@@ -62,14 +68,14 @@ An educational recreation of **Plants vs. Zombies 2**, developed in Java for the
 <br>
 
 <a href="https://github.com/MPH2005/PvZ2-SUT-Project">
-  <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔒 Task-to-Done
+### ✅ Task-to-Done
 
 A personal **task management application** focused on productivity and practical software development.
 
@@ -77,9 +83,10 @@ Currently under development.
 
 <br>
 
-<img src="https://img.shields.io/badge/Repository-Private-555555?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Repository-Private-6e7681?style=for-the-badge&logo=github&logoColor=white">
 
 </td>
+
 </tr>
 </table>
 
@@ -89,9 +96,9 @@ Currently under development.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MPH2005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MPH2005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPH2005&layout=compact&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPH2005&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -104,18 +111,6 @@ Currently under development.
 </div>
 
 ---
-
-## 📫 Contact Me
-
-<div align="center">
-
-<a href="mailto:mphosseini84@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-mphosseini84%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
-<br>
 
 <div align="center">
 
