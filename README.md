@@ -6,7 +6,6 @@
 
 <div align="center">
 
-### Computer Engineering Student @ Sharif University of Technology
 
 Interested in **Technology** • **Programming** • **Startups** 🚀
 
