@@ -6,13 +6,14 @@
 
 <div align="center">
 
-
-Interested in **Technology** • **Programming** • **Startups** 🚀
+<h2>
+  Interested in Technology • Programming • Startups 🚀
+</h2>
 
 <br>
 
 <a href="mailto:mphosseini84@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mphosseini84%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-mphosseini84%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -37,14 +38,16 @@ Currently, I'm working on both **personal** and **university projects**, while e
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<br>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<br><br>
 
 </div>
-
-<br>
 
 ---
 
@@ -63,7 +66,7 @@ An educational recreation of **Plants vs. Zombies 2**, developed in **Java** as 
 
 <p align="center">
   <a href="https://github.com/MPH2005/PvZ2-SUT-Project">
-    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -80,7 +83,7 @@ Currently under development.
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repository-Private-6e7681?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Repository-Private-6e7681?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 </td>
