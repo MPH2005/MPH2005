@@ -74,6 +74,29 @@ An educational recreation of **Plants vs. Zombies 2**, developed in **Java** as 
 
 <td width="50%" valign="top">
 
+### 🤖 Liara-Ai-Assistant
+
+An **AI Assistant** project developed as part of the **Liara StarCoach Hackathon**.
+
+Forked from  
+[`aliemamidev/Liara-StarCoach-Hackathon`](https://github.com/aliemamidev/Liara-StarCoach-Hackathon)
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/MPH2005/Liara-Ai-Assistant">
+    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top">
+
 ### ✅ Task-to-Done
 
 A personal **task management application** focused on productivity and practical software development.
