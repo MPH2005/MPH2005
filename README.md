@@ -1,151 +1,52 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Mohammad Parsa Hosseini Banner">
+  <img src="banner.png" alt="Illustrated Tehran skyline at sunset, with the Milad Tower and mountains" width="100%">
 </p>
 
-<br>
+<h1 align="center">Hi, I'm Mohammad Parsa Hosseini 👋</h1>
 
-<div align="center">
+<p align="center">
+  Computer Engineering student at Sharif University of Technology · Tehran, Iran<br>
+  Interested in software, game development, AI, and startups.
+</p>
 
-<h2>
-  Interested in Technology • Programming • Startups 🚀
-</h2>
-
-<br>
-
-<a href="mailto:mphosseini84@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mphosseini84%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
-<br>
+<p align="center">
+  <a href="mailto:mphosseini84@gmail.com">✉️ Get in touch</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧰 Tools I Use
 
-I'm a **Computer Engineering student at Sharif University of Technology**, interested in technology, programming, and startups.
-
-I enjoy learning new technologies, building practical software projects, and improving my problem-solving and software engineering skills.
-
-Currently, I'm working on both **personal** and **university projects**, while exploring new ideas and technologies in software development.
-
-<br>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<br><br>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/LibGDX-4A148C?style=for-the-badge" alt="LibGDX">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### 🌻 PvZ2-SUT-Project
 
-An educational recreation of **Plants vs. Zombies 2**, developed in **Java** as part of the **Advanced Programming** course at Sharif University of Technology.
+An educational **Plants vs. Zombies 2** game project built with **Java and LibGDX** for Sharif University of Technology's Advanced Programming course.
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/MPH2005/PvZ2-SUT-Project">
-    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
+[View repository →](https://github.com/MPH2005/PvZ2-SUT-Project)
 
 ### 🤖 Liara-Ai-Assistant
 
-An **AI Assistant** project developed as part of the **Liara StarCoach Hackathon**.
+A team hackathon project: an AI companion for Liara documentation, with Persian-first conversations and support features.
 
-Forked from  
-[`aliemamidev/Liara-StarCoach-Hackathon`](https://github.com/aliemamidev/Liara-StarCoach-Hackathon)
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/MPH2005/Liara-Ai-Assistant">
-    <img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" valign="top">
+[View my repository →](https://github.com/MPH2005/Liara-Ai-Assistant) · [View the upstream project →](https://github.com/aliemamidev/Liara-StarCoach-Hackathon)
 
 ### ✅ Task-to-Done
 
-A personal **task management application** focused on productivity and practical software development.
+A personal task-management app focused on productivity. **Private · In development**
 
-Currently under development.
-
-<br>
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repository-Private-6e7681?style=for-the-badge&logo=github&logoColor=white">
+  <strong>Always learning. Always building. 🚀</strong><br>
+  <sub>Mohammad Parsa Hosseini · Sharif University of Technology</sub>
 </p>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165"
-     src="https://github-readme-stats.vercel.app/api?username=MPH2005&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="165"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPH2005&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MPH2005&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### Always learning. Always building. 🚀
-
-<sub>Mohammad Parsa Hosseini • Sharif University of Technology</sub>
-
-</div>
